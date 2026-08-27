@@ -1,10 +1,10 @@
-# [WAVE] Hi, I'm Andreas — Homelab Infrastructure & DevOps Engineer
+# Hi, I'm Andreas — Homelab Infrastructure & DevOps Engineer
 
-## [TOOLS] What I Do
+## What I Do
 
 I build and manage self-hosted infrastructure at home — Proxmox, Docker, Kubernetes, and automation tooling.
 
-## [STATS] My Homelab
+## My Homelab
 
 | Component | Details |
 |-----------|---------|
@@ -15,7 +15,7 @@ I build and manage self-hosted infrastructure at home — Proxmox, Docker, Kuber
 | **Storage** | NFS, Ceph, automated backups |
 | **Security** | CrowdSec IDS/IPS, firewall, 2FA everywhere |
 
-## [ROCKET] My Tools & Scripts
+## My Tools & Scripts
 
 | Repo | Description | Language |
 |------|-------------|----------|
@@ -27,15 +27,15 @@ I build and manage self-hosted infrastructure at home — Proxmox, Docker, Kuber
 | [sysadmin-bash-toolkit](https://github.com/magos-cyber/sysadmin-bash-toolkit) | Sysadmin Bash toolkit | Shell |
 | [homelab-master-portal](https://github.com/magos-cyber/homelab-master-portal) | Master portal for all homelab tools | HTML |
 
-## [PACKAGE] Packages
+## Packages
 
 - [go-cli-tools Docker image](https://github.com/magos-cyber/go-cli-tools/pkgs/container/go-cli-tools) — `docker pull ghcr.io/magos-cyber/go-cli-tools`
 
-##  Projects
+## Projects
 
 - [Homelab Infrastructure Board](https://github.com/users/magos-cyber/projects/1) — Kanban board for tracking homelab tasks
 
-## [TOOLS] Tech Stack
+## Tech Stack
 
 ```
 Proxmox VE • Docker • Kubernetes • Helm • Vault • Consul
@@ -44,11 +44,11 @@ Prometheus • Grafana • Loki • CrowdSec
 OPNsense • WireGuard • AdGuard
 ```
 
-##  Connect
+## Connect
 
-- [GLOBE] [Homelab Portal](https://github.com/magos-cyber/homelab-master-portal)
-- [BRIEFCASE] Building self-hosted infrastructure since 2024
+- [Homelab Portal](https://github.com/magos-cyber/homelab-master-portal)
+- Building self-hosted infrastructure since 2024
 
 ---
 
-*Built with  in Greece*
+*Built with in Greece*
