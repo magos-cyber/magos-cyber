@@ -1,4 +1,4 @@
-# Hi, I'm Andreas — Homelab Infrastructure & DevOps Engineer
+# Homelab Infrastructure & DevOps 
 
 ## What I Do
 
